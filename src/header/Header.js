@@ -69,7 +69,7 @@ function Header() {
             >
               WHO I AM
             </button>
-            <div id="demo" class="collapse out">
+            <div id="demo" class="collapse in">
               <button
                 className="btn btn-primary navBtn"
                 onClick={ProfileDisplayFuct}

@@ -15,6 +15,10 @@ function Contact() {
       <img className="ContactIconPicture" src={PhoneNumber} alt="logo" />
       <div className="PhoneNumber"><strong>Phone</strong>: 3476155308</div>
       </div>
+      <div>
+      <strong>LinkedIn:</strong>linkedin.com/in/ismaela-boro<br/>
+      <strong>GitHub:</strong> https://github.com/isborrr
+      </div>
       </div>
     </div>
   );
